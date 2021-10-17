@@ -30,3 +30,10 @@ For testing in memory H2 is used
 
 I inserted all example cases if the database is empty
 
+Improvements:
+
+Controller testing
+
+Caching
+
+Auth
